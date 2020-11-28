@@ -44,7 +44,7 @@ Percentage of Five Star Vine Member Reviews 56%
 
 Percentage of Five Start Non-Vine Reviews 57%
 
-####**Summary**
+#### **Summary**
 
 The analysis shows overall Non-Vine members were more likely to leave a review and the paid review program may not be worth the investment. In fact, the majority of five-star reviews came from Non-Vine members and there was an insignificant different between the five-start review percentages of each group. To further test this theory, we could analyze the lowest star review breakdown. 
 
