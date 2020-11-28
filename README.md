@@ -30,15 +30,15 @@ After completing our initial $ellby project, I was tasked with analyzing Amazon 
 
 Total Reviews 14,537
 
-  o Vine Members 60
+    o Vine Members 60
 
-  o Non-Vine 14,447
+    o Non-Vine 14,447
 
 Total Five Star Reviews 8,246
 
-  o Vine Members 34
+     o Vine Members 34
 
-  o Non-Vine 8,212
+      o Non-Vine 8,212
 
 Percentage of Five Star Vine Member Reviews 56%
 
